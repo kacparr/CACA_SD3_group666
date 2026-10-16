@@ -4,3 +4,4 @@ __pycache __/
 log.html
 report.html
 output.xml
+.env
